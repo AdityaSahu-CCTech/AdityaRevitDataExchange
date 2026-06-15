@@ -6,11 +6,11 @@
 		<Name>Aditya Data Exchange</Name>
 
 		<Assembly>
-			"C:\AdityaCode\AdityaRevitDataExchange\bin\x64\Debug\AdityaRevitDataExchange.dll"
+			"Your Path\AdityaRevitDataExchange.dll"
 		</Assembly>
 
 		<AddInId>
-			8D83C886-B739-4ACD-A9DB-1BC78F315B2A
+			Your Addin id
 		</AddInId>
 
 		<FullClassName>
