@@ -8,7 +8,7 @@ namespace AdityaRevitDataExchange.DXSDK
 {
     public static class ConnectorConfiguration
     {
-        public const string ClientId = "vqzxALitdPHMRr507AgLrcAZg1Y8GQfF";
+        public const string ClientId = "<Your Client ID>";
 
         public const string Callback = "http://127.0.0.1:63212/";
 
